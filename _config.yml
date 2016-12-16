@@ -24,13 +24,8 @@ github_username: SharkBeard
 
 # Build settings
 markdown: kramdown
-baseurl: "/karna"
-
-
 sass:
     style: compressed
-
-  
 #optimization
 #compress.html
 compress_html:
@@ -42,9 +37,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
 highlight: rouge
-
 
 # Tracker
 analytics: UA-83979019-1
