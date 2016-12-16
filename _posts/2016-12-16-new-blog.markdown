@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "New blog"
+date:   2016-12-16 12:49:24 -0500
+categories: about update
+---
+
+I am throwing together a blog to educate voters. This is an attempt to make a bipartisan blog where we display only the facts about the issues. We may include opinions and other similar things, but hope to have equal coverage of both sides of each issue. 
+
+Full disclosure: Although this is an attempt to be fully bipartisan and intended to be kept completely objective, this was created in response to the election of Donald J. Trump and by liberal-leaning citizens.
+
+If anyone would like to contribute to help with the site or the projects they can view it on [Github](http://github.com/smartagain) or contact me on twitter @SharkBeard. 
